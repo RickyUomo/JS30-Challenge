@@ -1,2 +1,2 @@
-# Follow 30 days of JS challenge [js](https://github.com/RickyUomo/JS30-Challenge)
+# Follow [30 Days JS Challenge](https://github.com/Asabeneh/30-Days-Of-JavaScript) and practice the exercise
 
